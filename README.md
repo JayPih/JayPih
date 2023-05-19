@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular<br>🤝 I’m looking for help with DataBases<br>🌱 I’m currently learning Java<br>💬 Ask me about my hobbies<br>⚡ Fun fact i have 2000 hours of Dota 2
+🔭 I’m currently looking for work<br>🤝 I’m looking for help with DataBases<br>🌱 I’m currently learning Java<br>💬 Ask me about my hobbies<br>⚡ Fun fact i have 2000 hours of Dota 2
 
 
 ## 🌐 Socials:
