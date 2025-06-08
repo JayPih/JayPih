@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Fala aí! Eu sou o João Paulo (JP)
 
-<!--
-**JayPih/JayPih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+☕ Especializando em Desenvolvimento com Java  
+🚀 Apaixonado por tecnologia, backend e sistemas robustos  
+💡 Sempre buscando aprender algo novo e criar projetos desafiadores
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou usando ou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+![JP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+
+---
+
+## 💬 Um pouco mais sobre mim
+
+- 🔍 Explorando o ecossistema Java: Spring Boot, APIs REST e testes automatizados  
+- 🧠 Curioso por temas como inteligência artificial, redes e sistemas embarcados  
+- 🛠️ Sempre trabalhando em novos projetos e melhorando os antigos  
+- 🎯 Objetivo: me tornar um desenvolvedor backend Java sênior
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![E-mail](https://img.shields.io/badge/-jp_knot@hotmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jp_knot@hotmail.com)
+
+---
+
+> “Código limpo é como poesia bem escrita.” – JP ✍️
